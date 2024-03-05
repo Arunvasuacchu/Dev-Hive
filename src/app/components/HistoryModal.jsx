@@ -35,7 +35,7 @@ const HistoryModal = ({ isOpen, onClose }) => {
         title: "Success",
         description: "User deleted successfully",
         status: "success",
-        duration: 3000,
+        duration: 2000,
         isClosable: true,
       });
     }
